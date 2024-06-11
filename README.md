@@ -1,6 +1,8 @@
 # Implementation for the paper "On the Minimal Degree Bias in OOD Generalization for non-Boolean Functions"
 
-We use the PyTorch framework.
+Paper link: https://arxiv.org/abs/2406.06354. Proceedings of the ICML 2024.
+
+For the implementation, we use the PyTorch framework.
 
 ## Content
 - `datasets.py`: contains the code to generate data. Supports Gaussian distribution, and uniform distribution (on the Boolean domain or the set of bounded integers);
